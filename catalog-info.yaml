@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Oracle-Service-Bus-OSB12C
+  description: TallerSoa
+  annotations:
+    github.com/project-slug: crlsquilumba/Oracle-Service-Bus-OSB12C
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
